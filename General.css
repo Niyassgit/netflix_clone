@@ -1,0 +1,30 @@
+body{
+
+    margin: 0;
+}
+.black{
+
+    height: 800px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.7;
+}
+p{
+    font-family: sans-serif;
+}
+.base-image{
+
+    margin-top: -4px;
+    margin-bottom: 0;
+    width: 100%;
+}
+.body-backround{
+
+    background-color: black;
+    height: 2150px;
+    width: 100%;
+    margin-top:-20px;
+}

@@ -1,0 +1,290 @@
+
+
+.heading1{
+
+    color: white;
+    margin-left: 150px;
+    font-size: 25px;
+    margin-top: 10px;
+    font-weight: 500; 
+}
+.glob-button{
+
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    border:rgb(137, 134, 134);
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 150px;
+    border-radius: 5px;
+    
+
+}
+.down-arrow{
+
+    width: 10px;
+    margin-left: 15px;
+}
+.india{
+    font-size: 16px;
+    margin-left: 5px;
+}
+.Movies-button{
+
+    
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border: rgb(137, 134, 134);
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 20px;
+    border-radius: 5px;
+    
+}
+.down-arrow-Movies{
+
+    margin-left: 30px;
+    width: 10px;
+
+}
+.film-chart{
+
+    height: 250px;
+    width: 1200px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    margin-left: 150px;
+    position: relative;
+    
+    
+
+}
+.film-category{
+  
+    
+    height: 100%;
+    width: 200px;
+    position: relative;
+    display: flex;
+    cursor: pointer;
+    transition: 0.3s;
+
+}
+.film-category:hover{
+
+    height: 265px;
+    width: 210px;
+}
+.film-category-6{
+
+    height: 100%;
+    width:50px ;
+    position: relative;
+    cursor: pointer;
+    
+}
+.film-category-6:hover{
+    
+    height: 265px;
+    width: 210px;
+}
+.movie-pic{
+
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    
+    
+}
+
+.movie-pic-last{
+
+    width: 50px;
+    height: 100%;
+    object-fit: cover;
+    object-position: left;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px;
+}
+.ranking{
+    
+   position: absolute;
+   top: -4px;
+   right: -3px; 
+
+}
+.status-update{
+
+   background-color: red;
+   color: #fff;
+   font-size: 16px;
+   font-weight: 600;
+   position: absolute;
+   top: 222px;
+   left: 12px;
+   padding-right: 10px;
+   padding-left: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   font-family: sans-serif;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px;
+   
+   
+
+
+}
+.number-div{
+
+  position:absolute;
+  bottom: 10px;
+  left: -30px;
+
+  
+}
+
+.number-div-6{
+
+    position: absolute;
+    bottom: 10px;
+    left:-30px ;
+}
+.number-1{
+    width: 45px;
+
+}
+.number-2{
+    width: 65px;
+
+}
+.number-3{
+    width: 55px;
+}
+.number{
+    width: 60px;
+}
+.move-next{
+
+    height: 120px;
+    width: 25px;
+    background-color: #272525;
+    margin-top: 60px;
+    margin-left: 5px;
+    position: absolute;
+    top: 1006px;
+    right: 128px;
+    border-radius: 10px;
+
+  }
+  .next-key{
+    width: 15px;
+    margin-top: 50px;
+    margin-left: 5px;
+
+  }
+  
+  .reason-heading{
+    
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    top: 1300px; 
+    left: 140px;
+    
+  }
+  .reason-div-main{
+
+    height: 250px;
+    width:100%;
+    background-color: aquamarine;
+    
+  }
+  .Reason-page{
+
+    height: 250px;
+    width: 1250px;
+    margin-left: 145px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    position: absolute;
+    top: 1370px; 
+    
+  }
+  .reason-div{
+
+    height: 100%;
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+    
+
+  }
+  .image-fit{
+    
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+    
+  }
+  .frqnt-qstion{
+
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    top: 1650px; 
+    left: 140px;
+    
+  }
+  .question-div{
+
+    height: 550px;
+    width: 1250px;
+    margin-left: 145px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+    position: absolute;
+    top: 1730px;
+    
+    
+
+}
+.question{
+
+    height: 90px;
+    width: 100%;
+    background-color:rgb(47, 46, 46);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.question:hover{
+
+    background-color: #484747;
+}
+.question-text{
+ 
+    font-size: 25px;
+    color: #fff;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.plus{
+
+    
+    bottom: 20px;
+    width: 70px;
+    
+}

@@ -1,0 +1,127 @@
+.email-head{
+
+    color: white;
+    position: absolute;
+    top: 2340px;
+    margin-left: 530px;
+    font-size: 18px;
+
+}
+.email-submission-section{
+
+    position: absolute;
+    top: 2400px;
+    margin-left: 400px;
+    
+   
+}
+.email-2{
+
+    width: 600px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(25, 24, 24);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(151, 147, 147);
+}
+.email-2::placeholder{
+
+    padding-left: 10px;
+    font-size: 16px;
+    color: rgb(170, 167, 167);
+}
+.submit-butt2{
+
+    width: 200px;
+    height: 55px;
+    border-radius: 5px;
+    background-color: rgb(226, 7, 7);
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: sans-serif;
+
+}
+.submit-butt2:hover{
+
+    background-color: rgb(185, 5, 5);
+}
+.submission-button-id{
+
+    font-size: 25px;
+    color: white;
+    font-weight: 500;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.customer-care-number{
+ 
+    font-size: 17px;
+    position: absolute;
+    top: 2500px;
+    color: rgb(204, 196, 196);
+    margin-left: 140px;
+    
+
+}
+.footer-elements{
+ 
+    height: 300px;
+    width: 1300px;
+    background-color: black;
+    margin-left: 140px;
+    color: rgb(204, 196, 196);
+    position: absolute;
+    top: 2580px;
+
+}
+.flex-body-elements{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 40px;
+    cursor: pointer;
+}
+
+.item-1{
+    width: 100%;
+
+}
+.item-2{
+    width: 100%;
+}
+.item-3{
+    width: 100%;
+
+}
+.item-4{
+    width: 100%;
+
+}
+.language-selection-button-2{
+
+
+    
+  height: 35px ;
+  width: 120px;
+  background-color: black;
+  border-width: 1px;
+  border-color: rgb(76, 74, 74);
+  color: #fff;
+  font-size: 16px;
+  border-radius: 3px;
+  border-style: solid;
+  margin-top: 50px;
+
+}
+.end-name{
+
+    color: rgb(204, 196, 196);
+    font-size: 14px;
+    margin-top: 50px;
+}
